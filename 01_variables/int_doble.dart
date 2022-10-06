@@ -42,5 +42,4 @@ void main() {
 
 // Utilizar ese resultado como radio de una
 // circunferencia e imprimir su área y perimétro
-  int RadioCir = perimetro2;
 }
